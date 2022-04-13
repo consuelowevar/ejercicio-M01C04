@@ -1,0 +1,26 @@
+body {
+    background-color:antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+form {
+    padding: 50px;
+    background-color: #85C0C8;
+    background-image:url(https://cdn.shopify.com/s/files/1/0556/8898/6785/files/Petvet_banners_perro-y-gato_1600x.png?v=1638799134);
+    background-repeat: no-repeat;
+    
+}
+
+label {
+    margin: 5px;
+    display:block;
+}
+
+textarea {
+    margin: 10px;
+}
+
+iframe {
+    margin: 30px;
+}
